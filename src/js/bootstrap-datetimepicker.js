@@ -1,4 +1,4 @@
-/*! version : 4.0.10
+/*! version : 4.0.11
  =========================================================
  bootstrap-datetimejs
  https://github.com/Eonasdan/bootstrap-datetimepicker
@@ -1100,7 +1100,7 @@
                 togglePicker: function (e) {
                     var $this = $(e.target),
                         $parent = $this.closest('ul'),
-                        expanded = $parent.find('.in'),
+                        expanded = $parent.find('.show'),
                         closed = $parent.find('.collapse:not(.show)'),
                         collapseData;
 
