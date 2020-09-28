@@ -1,4 +1,4 @@
-/*! version : 4.0.11
+/*! version : 4.0.12
  =========================================================
  bootstrap-datetimejs
  https://github.com/Eonasdan/bootstrap-datetimepicker
@@ -2460,7 +2460,7 @@
         disabledDates: false,
         enabledDates: false,
         icons: {
-            time: 'fa fa-time',
+            time: 'fa fa-clock',
             date: 'fa fa-calendar',
             up: 'fa fa-chevron-up',
             down: 'fa fa-chevron-down',
